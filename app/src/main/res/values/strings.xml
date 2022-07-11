@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">TBC_Task_9</string>
+    <string name="name">Name</string>
+    <string name="surname">Surname</string>
+    <string name="email">Email</string>
+    <string name="yes">Yes</string>
+    <string name="add_user">Add User</string>
+    <string name="edit_user">Edit User</string>
+    <string name="no">No</string>
+    <string name="user_deleted">User deleted</string>
+    <string name="delete">Delete</string>
+    <string name="confirm_delete">Are you sure delete this user</string>
+    <string name="cansel">Cancel</string>
+    <string name="user_successfully_added">User successfully added</string>
+    <string name="user_successfully_edited">User successfully edited</string>
+    <string name="incorrect_input">Incorrect input</string>
+</resources>

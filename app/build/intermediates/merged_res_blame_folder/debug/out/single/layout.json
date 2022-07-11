@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "com.garibyan.armen.tbc_task_9.app-mergeDebugResources-25:/layout/activity_add_edit.xml",
+        "source": "com.garibyan.armen.tbc_task_9.app-main-28:/layout/activity_add_edit.xml"
+    },
+    {
+        "merged": "com.garibyan.armen.tbc_task_9.app-mergeDebugResources-25:/layout/rv_item.xml",
+        "source": "com.garibyan.armen.tbc_task_9.app-main-28:/layout/rv_item.xml"
+    },
+    {
+        "merged": "com.garibyan.armen.tbc_task_9.app-mergeDebugResources-25:/layout/activity_main.xml",
+        "source": "com.garibyan.armen.tbc_task_9.app-main-28:/layout/activity_main.xml"
+    }
+]
